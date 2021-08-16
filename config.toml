@@ -1,3 +1,7 @@
-baseURL = 'http://example.org/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
+baseURL = 'https://mirror-223.github.io/mylog/'
+languageCode = 'ja'
+title = 'mirror-s paradiso logs'
+contentDir = "post"
+disableKinds = ["RSS", "sitemap"]
+[taxonomies]
+tag = "tags"
